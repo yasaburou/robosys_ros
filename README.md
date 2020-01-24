@@ -1,6 +1,6 @@
 ## robosys_ros
 # 実行
-$rosrun 
+$rosrun                
 $rosrun mypkg count.py  
 $rosrun mypkg fibonacci.py  
 # 内容説明
